@@ -11,6 +11,12 @@ www.youtube.com/watch?v=WEk5-qfZFl0
 和
 https://b23.tv/lPeWJPG
 密码为我B站视频的BV号，打开短链接复制就行
+
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+English：
+
+
 Password:
 Open this short link: https://b23.tv/lPeWJPG
 It will take you to the video page on Bilibili (a Chinese video platform).

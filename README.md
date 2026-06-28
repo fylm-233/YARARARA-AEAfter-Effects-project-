@@ -10,24 +10,33 @@ YARARARA（hot fix）的AEP工程为原始工程
 www.youtube.com/watch?v=WEk5-qfZFl0
 和
 https://b23.tv/lPeWJPG
-密码为我B站视频的BV号，打开短链接复制就行
+——————————————————————————————————————————————————————————————————————————————————————
+This project does not require any additional plugins.
+When using it, please credit the original creator, AnythingBecomeMoe (ABM), and the template author, @风雨铃木.
 
+Recommended AE version: 2024 or later.
+However, this project was created with AE 2026; if conditions permit, we recommend using 2026.
 
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-English：
+The AEP project files labeled "YARARARA (hot fix)" are the original project files.
+The "24.X" and "25.X" versions are backward-compatible project files.
 
+You can see the results of this project at:
+www.youtube.com/watch?v=WEk5-qfZFl0
+and
+https://b23.tv/lPeWJPG
+—————————————————————————————————————————————————————————————————————————————————————————
+本プロジェクトには、追加プラグインは一切不要です。
+ご利用の際は、原作者の AnythingBecomeMoe（ABM） およびテンプレート作者の @风雨鈴木 を必ずクレジット表示してください。
 
-Password:
-Open this short link: https://b23.tv/lPeWJPG
-It will take you to the video page on Bilibili (a Chinese video platform).
-Look at the web address (URL) in your browser's address bar — it will look something like this:
-https://www.bilibili.com/video/BV1dLZkBsEbU
-The password is the part that starts with "BV" — for example, in the URL above, the password would be BV1dLZkBsEbU.
-Tip: The BV number is also displayed below the video title on the page.
+推奨するAfter Effectsのバージョンは 2024以降 です。
+ただし、本プロジェクトは AE 2026 で作成されております。環境が許せば、2026のご利用を推奨いたします。
 
-This project does not require additional plugins.
-If you use it, please credit the original author AnythingBecomeMoe (ABM) and the template creator @风雨铃木.
-Adobe After Effects 2024 or later is recommended.
-However, this project was created with AE 2026. If possible, we recommend using 2026.
-The AEP project labeled "YARARARA (hot fix)" is the original project.
-The "24.X" and "25.X" versions are downward-compatible projects.
+YARARARA（hot fix） というAEPファイルがオリジナルプロジェクトです。
+
+24.X および 25.X は、それぞれ下位互換用のプロジェクトファイルです。
+
+本プロジェクトの仕上がり映像は、以下のリンクでご確認いただけます。
+
+YouTube： www.youtube.com/watch?v=WEk5-qfZFl0
+
+B站： https://b23.tv/lPeWJPG
